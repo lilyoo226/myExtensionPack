@@ -1,0 +1,99 @@
+{
+  "name": "homie-extension-pack",
+  "displayName": "Homie Extensions pack",
+  "description": "full extensions for programing",
+  "version": "0.0.1",
+  "publisher": "homie",
+  "author": {
+    "name": "Samuel Amoah"
+  }, "repository": {
+    "type": "git",
+    "url": "https://github.com/lilyoo226/Homie-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/lilyoo226/Homie-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#09131b",
+    "theme": "dark"
+  },
+  "keywords": [
+    "extension",
+    "extensionpack",
+    "Homie",
+    "homie",
+    "homiepack",
+    "popular",
+    "codeSTACKr extension",
+    "theme",
+    "popular",
+    "top",
+    "Dracula",
+    "codercoder",
+    "vsCodeHero",
+    "theme color"
+  ],
+  
+  "icon": "image/logo.jpg",
+ 
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "aaravb.chrome-extension-developer-tools", 
+    "ahmadawais.shades-of-purple", 
+    "arcticicestudio.nord-visual-studio-code", 
+    "burkeholland.simple-react-snippets", 
+    "chris-noring.node-snippets", 
+    "christian-kohler.npm-intellisense", 
+    "christian-kohler.path-intellisense", 
+    "DavidAnson.vscode-markdownlint", 
+    "dbaeumer.vscode-eslint", 
+    "dsznajder.es7-react-js-snippets", 
+    "eamodio.gitlens", 
+    "EditorConfig.EditorConfig", 
+    "eg2.vscode-npm-script", 
+    "EQuimper.react-native-react-redux", 
+    "esbenp.prettier-vscode", 
+    "file-icons.file-icons", 
+    "firefox-devtools.vscode-firefox-debug", 
+    "formulahendry.auto-close-tag", 
+    "formulahendry.auto-rename-tag", 
+    "formulahendry.code-runner", 
+    "homie.homie", 
+    "humao.rest-client", 
+    "liviuschera.noctis", 
+    "miguelsolorio.fluent-icons", 
+    "miguelsolorio.min-theme", 
+    "mikestead.dotenv", 
+    "ms-azuretools.vscode-docker", 
+    "ms-edgedevtools.vscode-edge-devtools", 
+    "ms-toolsai.jupyter-keymap", 
+    "ms-toolsai.jupyter-renderers", 
+    "ms-vscode.powershell", 
+    "msjsdiag.vscode-react-native", 
+    "PKief.material-icon-theme", 
+    "pranaygp.vscode-css-peek", 
+    "riazxrazor.html-to-jsx", 
+    "ritwickdey.LiveServer", 
+    "rodrigovallades.es7-react-js-snippets", 
+    "Samuel", 
+    "Amoah.homie", 
+    "SamuelAmoah.LiL-Yoo", 
+    "sdras.night-owl", 
+    "streetsidesoftware.code-spell-checker", 
+    "VisualStudioExptTeam.intellicode-api-usage-examples", 
+    "VisualStudioExptTeam.vscodeintellicode", 
+    "vscjava.vscode-java-debug", 
+    "vscjava.vscode-java-dependency", 
+    "vscjava.vscode-java-pack", 
+    "vscjava.vscode-java-test", 
+    "WallabyJs.quokka-vscode", 
+    "xabikos.JavaScriptSnippets", 
+    "yzhang.markdown-all-in-one", 
+    "Zignd.html-css-class-completion"
+  ]
+}
